@@ -108,13 +108,13 @@ priority=0 actions=CONTROLLER:65535
 ## Proof of Execution
 
 ### pingall — 0% packet loss
-![pingall](<Screenshot 2026-04-17 123231-1.png>)
+![pingall](pingall.png)
 
 ### Flow table — s2
-![flow-table-s2](<Screenshot 2026-04-17 123434.png>)
+![flow-table-s2](flowtable-s2.png)
 
 ### Regression test results
-![regression]!(<Screenshot 2026-04-17 125139.png>)
+![regression](regression.png)
 
 ### Wireshark capture (ICMP + OpenFlow)
-![wireshark](<Screenshot 2026-04-17 123156.png>)
+![wireshark](wireshark.png)
